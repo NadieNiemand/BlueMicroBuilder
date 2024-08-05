@@ -28,7 +28,7 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 
 #define KC_CAP_D MOD(MOD_LSHIFT, KC_D)
 
-#define _QWERTY 0
+#define _L0  0
 #define _L1  1
 #define _L2  2
 
