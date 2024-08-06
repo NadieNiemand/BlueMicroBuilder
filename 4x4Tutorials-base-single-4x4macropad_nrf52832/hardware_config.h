@@ -28,10 +28,10 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #define MATRIX_COLS 12
 
 	#define MATRIX_ROW_PINS {6, 8, 20, 22}
-	#define MATRIX_COL_PINS {24, 32, 11, 36, 38, 9, 10, 43, 45, 47, 2, 29} // last 4: 6, 5, 8, 41, 22, 13, 20, 17,10, 38, 9, 24
+	#define MATRIX_COL_PINS {29, 2, 47, 45, 43, 10, 9, 38, 36, 11, 32, 24} // last 4: 6, 5, 8, 41, 22, 13, 20, 17,10, 38, 9, 24
 
 #define BATTERY_TYPE BATT_LIPO
-#define VBAT_PIN  31
+#define VBAT_PIN  4
 
 #define  STATUS_BLE_LED_PIN  19  //blue = 0.19
 #define  STATUS_KB_LED_PIN 17  //red = 0.17
