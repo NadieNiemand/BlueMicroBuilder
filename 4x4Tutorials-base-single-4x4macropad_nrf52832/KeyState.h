@@ -33,10 +33,10 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
   #define DOUBLETAP_TIME_LIMIT 200
 #endif
 #ifndef TIME_TILL_HOLD
-  #define TIME_TILL_HOLD 200
+  #define TIME_TILL_HOLD 150
 #endif
 #ifndef TIME_TILL_RELEASE
-  #define TIME_TILL_RELEASE 20 // was 80 
+  #define TIME_TILL_RELEASE 10 // was 80 
 #endif
 
 enum class Method {
